@@ -3,10 +3,9 @@ Website template for financial company.
 
 ### Screenshots
 
-![Edge-Ledger](./screenshots/snap1.png)
+<img alt="Template snapshot" src="https://github.com/Sanjuhub/Edge-Ledger/blob/master/screenshots/snap1.PNG">
 
-![Edge-Ledger](./screenshots/snap3.png)
 
-![Edge-Ledger](./screenshots/snap4.png)
 
-![Edge-Ledger](./screenshots/snap5.png)
+<img alt="Template snapshot" src="https://github.com/Sanjuhub/Edge-Ledger/blob/master/screenshots/snap4.PNG">
+
